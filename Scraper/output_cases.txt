@@ -1,0 +1,102 @@
+Les différents cas dans la colonne 'Subject Area and Category' sont :
+
+Computer Science, Computer Science Applications: 73
+Computer Science, Computer Science (miscellaneous): 64
+Computer Science, Artificial Intelligence: 21
+Computer Science, Computer Networks and Communications: 19
+Computer Science, Information Systems: 10
+Computer Science, Computer Science Applications, Information Systems: 8
+Computer Science, Artificial Intelligence, Computer Science Applications: 7
+Computer Science, Computer Science Applications, Computer Science (miscellaneous): 6
+Computer Science, Computer Networks and Communications, Information Systems: 6
+Computer Science, Computer Science Applications, Software: 5
+Computer Science, Software: 5
+Computer Science, Computer Networks and Communications, Computer Science Applications, Information Systems: 4
+Computer Science, Artificial Intelligence, Computer Networks and Communications, Computer Science Applications, Information Systems: 4
+Computer Science, Computer Networks and Communications, Computer Science Applications: 3
+Computer Science, Computer Networks and Communications, Hardware and Architecture: 3
+Computer Science, Artificial Intelligence, Computer Science Applications, Information Systems: 3
+Computer Science, Artificial Intelligence, Computer Vision and Pattern Recognition, Human-Computer Interaction: 3
+Computer Science, Computer Vision and Pattern Recognition, Signal Processing, Software: 2
+Computer Science, Computer Networks and Communications, Software: 2
+Computer Science, Artificial Intelligence, Computer Science Applications, Human-Computer Interaction: 2
+Computer Science, Computer Vision and Pattern Recognition, Software: 2
+Computer Science, Computational Theory and Mathematics, Computer Networks and Communications, Computer Science Applications: 2
+Computer Science, Computer Graphics and Computer-Aided Design, Human-Computer Interaction, Software: 2
+Computer Science, Artificial Intelligence, Human-Computer Interaction: 2
+Computer Science, Artificial Intelligence, Computer Science (miscellaneous), Information Systems: 2
+Computer Science, Computer Networks and Communications, Human-Computer Interaction: 2
+Computer Science, Computational Theory and Mathematics, Computer Science Applications: 2
+Computer Science, Computer Graphics and Computer-Aided Design, Computer Science Applications, Human-Computer Interaction: 2
+Computer Science, Artificial Intelligence, Computer Science (miscellaneous): 2
+Computer Science, Artificial Intelligence, Information Systems: 2
+Computer Science, Artificial Intelligence, Computer Networks and Communications, Computer Science Applications: 2
+Computer Science, Computer Science Applications, Computer Science (miscellaneous), Software: 2
+Computer Science, Computer Networks and Communications, Signal Processing: 2
+Computer Science, Artificial Intelligence, Computational Theory and Mathematics: 2
+Computer Science, Computer Science Applications, Human-Computer Interaction: 2
+Computer Science, Information Systems, Signal Processing: 2
+Computer Science, Computer Networks and Communications, Computer Science Applications, Hardware and Architecture, Information Systems, Software: 1
+Computer Science, Hardware and Architecture, Software: 1
+Computer Science, Computer Graphics and Computer-Aided Design, Computer Networks and Communications, Hardware and Architecture, Information Systems, Software: 1
+Computer Science, Computer Science (miscellaneous), Human-Computer Interaction: 1
+Computer Science, Computer Graphics and Computer-Aided Design, Software: 1
+Computer Science, Artificial Intelligence, Computational Theory and Mathematics, Computer Networks and Communications, Hardware and Architecture, Human-Computer Interaction, Information Systems: 1
+Computer Science, Artificial Intelligence, Computer Networks and Communications, Information Systems: 1
+Computer Science, Artificial Intelligence, Computer Graphics and Computer-Aided Design, Human-Computer Interaction, Software: 1
+Computer Science, Artificial Intelligence, Computer Science Applications, Computer Vision and Pattern Recognition, Human-Computer Interaction, Information Systems, Software: 1
+Computer Science, Computational Theory and Mathematics, Computer Science Applications, Software: 1
+Computer Science, Artificial Intelligence, Computational Theory and Mathematics, Computer Science (miscellaneous), Computer Vision and Pattern Recognition, Information Systems, Software: 1
+Computer Science, Artificial Intelligence, Computer Science Applications, Computer Vision and Pattern Recognition: 1
+Computer Science, Artificial Intelligence, Computational Theory and Mathematics, Computer Networks and Communications, Computer Science Applications, Information Systems: 1
+Computer Science, Artificial Intelligence, Hardware and Architecture, Human-Computer Interaction, Signal Processing: 1
+Computer Science, Artificial Intelligence, Computer Networks and Communications, Computer Science Applications, Computer Vision and Pattern Recognition, Information Systems: 1
+Computer Science, Artificial Intelligence, Computational Theory and Mathematics, Computer Networks and Communications, Computer Science Applications, Software: 1
+Computer Science, Computational Theory and Mathematics, Computer Networks and Communications: 1
+Computer Science, Computational Theory and Mathematics, Computer Science Applications, Computer Science (miscellaneous): 1
+Computer Science, Computer Networks and Communications, Computer Science Applications, Human-Computer Interaction, Information Systems: 1
+Computer Science, Artificial Intelligence, Computer Science Applications, Computer Science (miscellaneous), Computer Vision and Pattern Recognition, Hardware and Architecture, Software: 1
+Computer Science, Artificial Intelligence, Computational Theory and Mathematics, Computer Graphics and Computer-Aided Design, Computer Networks and Communications, Computer Science (miscellaneous), Computer Vision and Pattern Recognition: 1
+Computer Science, Computer Networks and Communications, Signal Processing, Software: 1
+Computer Science, Computer Science (miscellaneous), Information Systems: 1
+Computer Science, Computer Networks and Communications, Computer Science (miscellaneous), Information Systems: 1
+Computer Science, Computational Theory and Mathematics, Computer Networks and Communications, Computer Science Applications, Hardware and Architecture, Information Systems, Software: 1
+Computer Science, Artificial Intelligence, Computational Theory and Mathematics, Computer Networks and Communications, Information Systems: 1
+Computer Science, Signal Processing, Software: 1
+Computer Science, Artificial Intelligence, Software: 1
+Computer Science, Computational Theory and Mathematics, Computer Networks and Communications, Computer Science Applications, Software: 1
+Computer Science, Computer Networks and Communications, Information Systems, Software: 1
+Computer Science, Artificial Intelligence, Information Systems, Software: 1
+Computer Science, Computer Networks and Communications, Computer Science Applications, Computer Science (miscellaneous), Information Systems, Software: 1
+Computer Science, Computer Networks and Communications, Computer Science Applications, Computer Science (miscellaneous): 1
+Computer Science, Computer Networks and Communications, Hardware and Architecture, Information Systems: 1
+Computer Science, Artificial Intelligence, Computer Graphics and Computer-Aided Design, Computer Vision and Pattern Recognition: 1
+Computer Science, Computational Theory and Mathematics, Computer Networks and Communications, Computer Science (miscellaneous): 1
+Computer Science, Computer Science Applications, Information Systems, Software: 1
+Computer Science, Artificial Intelligence, Computer Networks and Communications, Signal Processing: 1
+Computer Science, Artificial Intelligence, Computer Networks and Communications, Computer Vision and Pattern Recognition, Human-Computer Interaction, Information Systems: 1
+Computer Science, Artificial Intelligence, Computer Science Applications, Information Systems, Software: 1
+Computer Science, Artificial Intelligence, Computer Networks and Communications, Hardware and Architecture, Information Systems, Software: 1
+Computer Science, Artificial Intelligence, Computer Graphics and Computer-Aided Design, Computer Networks and Communications, Hardware and Architecture, Signal Processing, Software: 1
+Computer Science, Artificial Intelligence, Computer Science Applications, Hardware and Architecture: 1
+Computer Science, Artificial Intelligence, Human-Computer Interaction, Software: 1
+Computer Science, Computer Science Applications, Signal Processing: 1
+Computer Science, Artificial Intelligence, Human-Computer Interaction, Information Systems: 1
+Computer Science, Artificial Intelligence, Computer Networks and Communications, Computer Science Applications, Software: 1
+Computer Science, Computer Graphics and Computer-Aided Design, Computer Science Applications: 1
+Computer Science, Computer Science (miscellaneous), Signal Processing: 1
+Computer Science, Artificial Intelligence, Computer Networks and Communications, Information Systems, Software: 1
+Computer Science, Artificial Intelligence, Computer Networks and Communications, Computer Science Applications, Computer Vision and Pattern Recognition, Signal Processing: 1
+Computer Science, Artificial Intelligence, Computer Science Applications, Software: 1
+Computer Science, Information Systems, Software: 1
+Computer Science, Computer Networks and Communications, Computer Science Applications, Signal Processing: 1
+Computer Science, Computer Networks and Communications, Computer Science Applications, Computer Science (miscellaneous), Hardware and Architecture, Information Systems, Software: 1
+Computer Science, Artificial Intelligence, Hardware and Architecture: 1
+Computer Science, Artificial Intelligence, Computer Networks and Communications, Computer Science Applications, Information Systems, Software: 1
+Computer Science, Artificial Intelligence, Computer Science Applications, Computer Science (miscellaneous), Computer Vision and Pattern Recognition, Signal Processing: 1
+Computer Science, Computer Networks and Communications, Hardware and Architecture, Signal Processing: 1
+Computer Science, Computer Networks and Communications, Computer Science Applications, Human-Computer Interaction: 1
+Computer Science, Computational Theory and Mathematics, Computer Networks and Communications, Computer Science Applications, Hardware and Architecture, Software: 1
+Computer Science, Computer Science Applications, Computer Science (miscellaneous), Computer Vision and Pattern Recognition, Human-Computer Interaction: 1
+Computer Science, Artificial Intelligence, Computational Theory and Mathematics, Computer Graphics and Computer-Aided Design, Computer Networks and Communications: 1
+Computer Science, Human-Computer Interaction, Software: 1

@@ -1,0 +1,418 @@
+ACS Physical Chemistry Au
+Acta Acustica
+Acta Informatica Pragensia
+Acta Scientiarum - Technology
+Advanced Biomedical Engineering
+Advanced Information Systems
+Advanced Intelligent Systems
+Advanced Modeling and Simulation in Engineering Sciences
+Advances and Applications in Bioinformatics and Chemistry
+Advances in Science and Technology Research Journal
+Advances in Science and Technology Research Journal
+Advances in Technology Innovation
+AI (Switzerland)
+Aibi, Revista de Investigacion Administracion e Ingenierias
+AIMS Electronics and Electrical Engineering
+Animal Biotelemetry
+Annals of GIS
+Annals of Library and Information Studies
+APL Photonics
+Applied AI Letters
+Applied Artificial Intelligence
+Applied Computational Intelligence and Soft Computing
+Applied Computer Science
+Applied Computing and Geosciences
+Applied Computing and Informatics
+Applied Mathematics and Nonlinear Sciences
+Applied Network Science
+Applied Sciences (Switzerland)
+Applied System Innovation
+APSIPA Transactions on Signal and Information Processing
+Argument and Computation
+Array
+Artificial Intelligence in Agriculture
+Artificial Intelligence in Geosciences
+Artificial Intelligence in the Life Sciences
+Artnodes
+AtoZ
+Austral Comunicacion
+Australasian Journal of Information Systems
+Automatika
+Automation
+Autonomous Intelligent Systems
+Baghdad Science Journal
+Baltic Journal of Modern Computing
+Big Data and Cognitive Computing
+Big Data and Society
+Big Data Mining and Analytics
+Big Earth Data
+BioData Mining
+Bioelectronic Medicine
+Bioinformatics
+Bioinformatics Advances
+BioMedInformatics
+Biomimetic Intelligence and Robotics
+Blockchain in Healthcare Today
+BMC Bioinformatics
+BMC Medical Informatics and Decision Making
+BMJ Health and Care Informatics
+Brain Informatics
+Brazilian Journal of Operations and Production Management
+Bulletin of the Polish Academy of Sciences: Technical Sciences
+CAAI Transactions on Intelligence Technology
+Canadian Journal of Learning and Technology
+Cell Reports Methods
+Chaos Theory and Applications
+Chip
+CLEI Eletronic Journal (CLEIej)
+Cogent Engineering
+Cognitive Computation and Systems
+Cognitive Robotics
+CommIT Journal
+Communications in Analysis and Mechanics
+Complex Systems Informatics and Modeling Quarterly
+Complexity
+Computation
+Computational and Structural Biotechnology Journal
+Computational Linguistics
+Computational Urban Science
+Computational Visual Media
+Computer Assisted Surgery
+Computer Methods and Programs in Biomedicine Update
+Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization
+Computer Research and Modeling
+Computer Science
+Computer Science and Information Systems
+Computer Science Journal of Moldova
+Computers
+Computers and Education: Artificial Intelligence
+Computers in Human Behavior Reports
+Cryptography
+Cybernetics and Information Technologies
+Cybernetics and Physics
+Cybersecurity
+Cyborg and Bionic Systems
+Data
+Data and Information Management
+Data and Policy
+Data Intelligence
+Data Science
+Data Science and Engineering
+Data Science and Management
+Data Science Journal
+Data-Centric Engineering
+Database : the journal of biological databases and curation
+Developments in the Built Environment
+Digital
+Digital Biomarkers
+Digital Chinese Medicine
+Digital Communications and Networks
+Digital Geography and Society
+Digital Health
+Digital Studies/ Le Champ Numerique
+Digital Transformation and Society
+Discover Internet of Things
+Discrete and Continuous Models and Applied Computational Science
+Discrete Mathematics and Theoretical Computer Science
+Drone Systems and Applications
+Drones
+E-Informatica Software Engineering Journal
+EAI Endorsed Transactions on Energy Web
+EAI Endorsed Transactions on Internet of Things
+EAI Endorsed Transactions on Pervasive Health and Technology
+EAI Endorsed Transactions on Scalable Information Systems
+Eastern-European Journal of Enterprise Technologies
+Ecological Informatics
+ECTI Transactions on Computer and Information Technology
+Education Sciences
+Edutec
+Egyptian Informatics Journal
+Electronic Letters on Computer Vision and Image Analysis
+Electronic Proceedings in Theoretical Computer Science, EPTCS
+Electronics (Switzerland)
+Encontros Bibli
+Energy and AI
+Energy Informatics
+Engineering
+Engineering Applications of Computational Fluid Mechanics
+Engineering Reports
+Engineering Science and Technology, an International Journal
+Entropy
+EPJ Data Science
+ETRI Journal
+Eurasip Journal on Image and Video Processing
+EURASIP Journal on Multimedia and Information Security
+Eurasip Journal on Wireless Communications and Networking
+Evolutionary Bioinformatics
+Foundations of Computing and Decision Sciences
+Frontiers in Artificial Intelligence
+Frontiers in Big Data
+Frontiers in Blockchain
+Frontiers in Communications and Networks
+Frontiers in Computer Science
+Frontiers in Digital Health
+Frontiers in Mechanical Engineering
+Frontiers in Nanotechnology
+Frontiers in Neuroinformatics
+Frontiers in Neurorobotics
+Frontiers in Robotics and AI
+Frontiers in Virtual Reality
+Future Internet
+Fuzzy Information and Engineering
+Geomatics and Environmental Engineering
+GigaScience
+Graphical Models
+Groups, Complexity, Cryptology
+Heritage Science
+High-Confidence Computing
+HighTech and Innovation Journal
+i-com
+i-Perception
+IACR Transactions on Cryptographic Hardware and Embedded Systems
+IACR Transactions on Symmetric Cryptology
+ICT Express
+IEEE Open Journal of Intelligent Transportation Systems
+IEEE Open Journal of Nanotechnology
+IEEE Open Journal of the Communications Society
+IEEE Open Journal of the Computer Society
+IEEE Transactions on Quantum Engineering
+IET Biometrics
+IET Blockchain
+IET Collaborative Intelligent Manufacturing
+IET Communications
+IET Computer Vision
+IET Computers and Digital Techniques
+IET Control Theory and Applications
+IET Cyber-Physical Systems: Theory and Applications
+IET Image Processing
+IET Information Security
+IET Networks
+IET Quantum Communication
+IET Smart Cities
+IET Smart Grid
+IIUM Engineering Journal
+Image Processing On Line
+Informatics
+Informatics and Automation
+Informatics in Education
+Informatics in Medicine Unlocked
+Information (Switzerland)
+Information Processing in Agriculture
+Information Technology and Control
+Information Technology and Libraries
+Infrastructures
+Ingenius
+Innovative Biosystems and Bioengineering
+Inteligencia Artificial
+Intelligence-Based Medicine
+Intelligent and Converged Networks
+Intelligent Medicine
+Intelligent Systems with Applications
+Interaction Design and Architecture(s)
+International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives
+International Biomechanics
+International Journal of Advanced Robotic Systems
+International Journal of Advances in Intelligent Informatics
+International Journal of Applied Mathematics and Computer Science
+International Journal of Cognitive Computing in Engineering
+International Journal of Computational Intelligence Systems
+International Journal of Computational Methods and Experimental Measurements
+International Journal of Computer Games Technology
+International Journal of Computer Science in Sport
+International Journal of Computers, Communications and Control
+International Journal of Computing and Digital Systems
+International Journal of Crowd Science
+International Journal of Data and Network Science
+International Journal of Digital Earth
+International Journal of Distributed Sensor Networks
+International Journal of eBusiness and eGovernment Studies
+International Journal of Educational Technology in Higher Education
+International Journal of Electronics and Telecommunications
+International Journal of Health Geographics
+International Journal of Information Management Data Insights
+International Journal of Intelligent Networks
+International Journal of Interactive Mobile Technologies
+International Journal of Interactive Multimedia and Artificial Intelligence
+International Journal of Mathematical, Engineering and Management Sciences
+International Journal of Molecular Sciences
+International Journal of Networked and Distributed Computing
+International Journal of Population Data Science
+International Journal of Prognostics and Health Management
+International Journal of Serious Games
+International Journal of Telemedicine and Applications
+International Journal of Telerehabilitation
+International Journal on Electrical Engineering and Informatics
+International Journal on Informatics Visualization
+International Review of Applied Sciences and Engineering
+Internet of Things
+Internet of Things and Cyber-Physical Systems
+Internet Policy Review
+Iranian Journal of Information Processing Management
+Iraqi Journal for Computer Science and Mathematics
+JASSS
+JLIS.it
+JMIR Infodemiology
+Jordanian Journal of Computers and Information Technology
+Journal of Advanced Computational Intelligence and Intelligent Informatics
+Journal of Advanced Transportation
+Journal of Analytical Methods in Chemistry
+Journal of Applied Biomedicine
+Journal of Applied Engineering and Technological Science
+Journal of Artificial Intelligence Research
+Journal of Big Data
+Journal of Bio-X Research
+Journal of Biomedical Physics and Engineering
+Journal of Biomedical Semantics
+Journal of Cheminformatics
+Journal of Communications Software and Systems
+Journal of Computational Mathematics and Data Science
+Journal of Computer Applications in Archaeology
+Journal of Computer Networks and Communications
+Journal of Computer Science and Technology(Argentina)
+Journal of Computing and Information Technology
+Journal of Control Science and Engineering
+Journal of Cultural Analytics
+Journal of Cybersecurity
+Journal of Cybersecurity and Privacy
+Journal of Electrical and Computer Engineering
+Journal of Electromagnetic Engineering and Science
+Journal of Electronic Science and Technology
+Journal of Energy in Southern Africa
+Journal of Engineering and Technology for Industrial Applications
+Journal of Finance and Data Science
+Journal of Graph Algorithms and Applications
+Journal of ICT Research and Applications
+Journal of Information and Communication Technology
+Journal of Information and Organizational Sciences
+Journal of Information and Telecommunication
+Journal of Information Systems and Telecommunication
+Journal of Information Systems Engineering and Management
+Journal of Information Technology in Construction
+Journal of Innovation and Entrepreneurship
+Journal of Intelligent Systems
+Journal of Internet Services and Applications
+Journal of Internet Services and Information Security
+Journal of King Saud University - Engineering Sciences
+Journal of Language Modelling
+Journal of Machine Engineering
+Journal of Mathematical Cryptology
+Journal of Medical Ethics and History of Medicine
+Journal of Medical Signals and Sensors
+Journal of Metaverse
+Journal of Open Humanities Data
+Journal of Open Research Software
+Journal of Pathology Informatics
+Journal of Physics: Complexity
+Journal of Privacy and Confidentiality
+Journal of Responsible Technology
+Journal of Robotics
+Journal of Robotics and Mechatronics
+Journal of Safety Science and Resilience
+Journal of Sensor and Actuator Networks
+Journal of Social Computing
+Journal of Spatial Information Science
+Journal of Statistical Software
+Journal of Statistical Theory and Applications
+Journal of Telecommunications and Information Technology
+Journal of the Brazilian Computer Society
+Journal of Theoretical and Applied Electronic Commerce Research
+Journal of Universal Computer Science
+Karbala International Journal of Modern Science
+KazNU Bulletin. Mathematics, Mechanics, Computer Science Series
+Laboratory Phonology
+Law, Technology and Humans
+Ledger
+Linguistica
+Logical Methods in Computer Science
+Logistics Research
+Machine Learning and Knowledge Extraction
+Machine Learning: Science and Technology
+Machines
+Mathematical and Computer Modelling of Dynamical Systems
+Mathematical Foundations of Computing
+Mathematics
+Medicine in Novel Technology and Devices
+Mendel
+Modeling, Identification and Control
+Modelling
+Modelling and Simulation in Engineering
+Molecular Systems Biology
+mSystems
+Multimodal Technologies and Interaction
+NAR Genomics and Bioinformatics
+Neuromorphic Computing and Engineering
+Nonlinear Engineering
+Nordic Journal of Digital Literacy
+npj Computational Materials
+npj Quantum Information
+npj Systems Biology and Applications
+Observational Studies
+Observatorio
+Online Learning Journal
+Open Computer Science
+Paladyn
+Passer Journal of Basic and Applied Sciences
+PeerJ Computer Science
+Pixel-Bit, Revista de Medios y Educacion
+Power Electronic Devices and Components
+PRX Quantum
+PSU Research Review
+Psychoradiology
+Publications
+Radioelectronic and Computer Systems
+Railway Engineering Science
+Research Data Journal for the Humanities and Social Sciences
+Research in Learning Technology
+Results in Control and Optimization
+Revista Chilena de Derecho y Tecnologia
+Revista Colombiana de Computacion
+Revista de Direito, Estado e Telecomunicacoes
+Revista de Educacion a Distancia
+Revista de Internet, Derecho y Politica
+Revista Digital de Biblioteconomia e Ciencia da Informacao
+Revue Francaise de Photogrammetrie et de Teledetection
+RIED-Revista Iberoamericana de Educacion a Distancia
+RISTI - Revista Iberica de Sistemas e Tecnologias de Informacao
+ROBOMECH Journal
+Robotics
+Scientific and Technical Journal of Information Technologies, Mechanics and Optics
+Scientific Annals of Computer Science
+Scientific data
+Sensors
+Sensors and Actuators Reports
+Sensors and Actuators Reports
+Serbian Journal of Electrical Engineering
+SICE Journal of Control, Measurement, and System Integration
+SiSal Journal
+SLAS Technology
+Smart Agricultural Technology
+Smart Cities
+Smart Learning Environments
+Social Media and Society
+SoftwareX
+South African Computer Journal
+Supercomputing Frontiers and Innovations
+Sustainability (Switzerland)
+Sustainability (Switzerland)
+Sustainable Engineering and Innovation
+Sustainable Operations and Computers
+Symmetry
+System Research and Information Technologies
+Systems and Soft Computing
+Systems Science and Control Engineering
+Technologies
+Tehnicki Glasnik
+Telemedicine Reports
+TEM Journal
+Texto Livre
+Transactions of the Association for Computational Linguistics
+Transactions of the Association for Computational Linguistics
+Transport and Telecommunication
+TripleC
+Uniciencia
+Vietnam Journal of Computer Science
+Virtual Archaeology Review
+Virtual Reality and Intelligent Hardware
+Virtual Reality and Intelligent Hardware
+Visual Computing for Industry, Biomedicine, and Art
+Visual Informatics

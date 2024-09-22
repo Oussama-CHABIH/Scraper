@@ -1,0 +1,2694 @@
+Texte du site principal (https://www.springer.com/computer/image+processing/journal/41095):
+Home | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Editorial board
+Aims and scope
+Journal updates
+Overview
+Computational Visual Media
+will cease publication with Springer Nature on completion of Volume 10/2024. The journal will continue in cooperation with Tsinghua University Press from Volume 11/2025. Please contact the Editorial Office (compvismedia@gmail.com) for information regarding the submission process.
+Computational Visual Media
+is an open access journal for the publication of original high-quality research papers and significant review articles on novel ideas, methods, and systems relevant to visual media.
+Original, high-quality research papers and review articles on all aspects of computer graphics, computer vision, image and video processing, geometric computing, and machine learning.
+Academically supported by the Department of Computer Science and Technology of Tsinghua University.
+High-quality peer review and rapid publication, no APCs for authors.
+Journal Impact Factor
+17.3 (2023)
+Submission to first decision (median)
+15 days
+Downloads
+128,873 (2023)
+Societies and partnerships
+Tsinghua University Press
+Latest issue
+August 2024
+|
+Volume 10, Issue 4
+The CVM 2024 Special Issue
+View all volumes and issues
+Latest articles
+Real-time all-frequency global illumination with radiance caching
+Youxin Xing
+Gaole Pan
+Beibei Wang
+Research Article
+Open access
+21 September 2024
+Watertight surface reconstruction method for CAD models based on optimal transport
+Yuanyan Ye
+Yubo Wang
+Zhonggui Chen
+Research Article
+Open access
+21 September 2024
+Message from Guest Editors of the CVM 2024 Special Issue
+Andrei Sharf
+Fang-Lue Zhang
+Editorial
+Open access
+16 September 2024
+Pages: 611 - 612
+TrafPS
+: A shapley-based visual analytics approach to interpret traffic
+Zezheng Feng
+Yifan Jiang
+Xuan Song
+Research Article
+Open access
+31 August 2024
+CLIP-Flow: Decoding images encoded in CLIP space
+Hao Ma
+Ming Li
+Hui Huang
+Research Article
+Open access
+28 August 2024
+View all articles
+Journal updates
+CVM Journal Award in 2023
+CVM Journal Award in 2022
+CVM Journal Award in 2021
+CVM Journal Award in 2020
+View all updates
+Journal information
+Electronic ISSN
+2096-0662
+Print ISSN
+2096-0433
+Co-Publisher information
+Tsinghua University Press
+Abstracted and indexed in
+Baidu
+CLOCKSS
+CNKI
+CNPIEC
+Chinese Academy of Sciences (CAS) - GoOA
+Chinese Science Citation Database
+Current Contents/Engineering, Computing  and Technology
+DBLP
+DOAJ
+Dimensions
+EBSCO
+EI Compendex
+Gale
+Google Scholar
+INSPEC
+Naver
+OCLC WorldCat Discovery Service
+Portico
+ProQuest
+SCImago
+SCOPUS
+Science Citation Index Expanded (SCIE)
+TD Net Discovery Service
+UGC-CARE List (India)
+Wanfang
+Copyright information
+Rights and permissions
+Editorial policies
+© Tsinghua University Press
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/computer/image+processing/journal/41095#main):
+Home | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Editorial board
+Aims and scope
+Journal updates
+Overview
+Computational Visual Media
+will cease publication with Springer Nature on completion of Volume 10/2024. The journal will continue in cooperation with Tsinghua University Press from Volume 11/2025. Please contact the Editorial Office (compvismedia@gmail.com) for information regarding the submission process.
+Computational Visual Media
+is an open access journal for the publication of original high-quality research papers and significant review articles on novel ideas, methods, and systems relevant to visual media.
+Original, high-quality research papers and review articles on all aspects of computer graphics, computer vision, image and video processing, geometric computing, and machine learning.
+Academically supported by the Department of Computer Science and Technology of Tsinghua University.
+High-quality peer review and rapid publication, no APCs for authors.
+Journal Impact Factor
+17.3 (2023)
+Submission to first decision (median)
+15 days
+Downloads
+128,873 (2023)
+Societies and partnerships
+Tsinghua University Press
+Latest issue
+August 2024
+|
+Volume 10, Issue 4
+The CVM 2024 Special Issue
+View all volumes and issues
+Latest articles
+Real-time all-frequency global illumination with radiance caching
+Youxin Xing
+Gaole Pan
+Beibei Wang
+Research Article
+Open access
+21 September 2024
+Watertight surface reconstruction method for CAD models based on optimal transport
+Yuanyan Ye
+Yubo Wang
+Zhonggui Chen
+Research Article
+Open access
+21 September 2024
+Message from Guest Editors of the CVM 2024 Special Issue
+Andrei Sharf
+Fang-Lue Zhang
+Editorial
+Open access
+16 September 2024
+Pages: 611 - 612
+TrafPS
+: A shapley-based visual analytics approach to interpret traffic
+Zezheng Feng
+Yifan Jiang
+Xuan Song
+Research Article
+Open access
+31 August 2024
+CLIP-Flow: Decoding images encoded in CLIP space
+Hao Ma
+Ming Li
+Hui Huang
+Research Article
+Open access
+28 August 2024
+View all articles
+Journal updates
+CVM Journal Award in 2023
+CVM Journal Award in 2022
+CVM Journal Award in 2021
+CVM Journal Award in 2020
+View all updates
+Journal information
+Electronic ISSN
+2096-0662
+Print ISSN
+2096-0433
+Co-Publisher information
+Tsinghua University Press
+Abstracted and indexed in
+Baidu
+CLOCKSS
+CNKI
+CNPIEC
+Chinese Academy of Sciences (CAS) - GoOA
+Chinese Science Citation Database
+Current Contents/Engineering, Computing  and Technology
+DBLP
+DOAJ
+Dimensions
+EBSCO
+EI Compendex
+Gale
+Google Scholar
+INSPEC
+Naver
+OCLC WorldCat Discovery Service
+Portico
+ProQuest
+SCImago
+SCOPUS
+Science Citation Index Expanded (SCIE)
+TD Net Discovery Service
+UGC-CARE List (India)
+Wanfang
+Copyright information
+Rights and permissions
+Editorial policies
+© Tsinghua University Press
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/computer/image+processing/journal/41095#eds-c-header-nav):
+Home | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Editorial board
+Aims and scope
+Journal updates
+Overview
+Computational Visual Media
+will cease publication with Springer Nature on completion of Volume 10/2024. The journal will continue in cooperation with Tsinghua University Press from Volume 11/2025. Please contact the Editorial Office (compvismedia@gmail.com) for information regarding the submission process.
+Computational Visual Media
+is an open access journal for the publication of original high-quality research papers and significant review articles on novel ideas, methods, and systems relevant to visual media.
+Original, high-quality research papers and review articles on all aspects of computer graphics, computer vision, image and video processing, geometric computing, and machine learning.
+Academically supported by the Department of Computer Science and Technology of Tsinghua University.
+High-quality peer review and rapid publication, no APCs for authors.
+Journal Impact Factor
+17.3 (2023)
+Submission to first decision (median)
+15 days
+Downloads
+128,873 (2023)
+Societies and partnerships
+Tsinghua University Press
+Latest issue
+August 2024
+|
+Volume 10, Issue 4
+The CVM 2024 Special Issue
+View all volumes and issues
+Latest articles
+Real-time all-frequency global illumination with radiance caching
+Youxin Xing
+Gaole Pan
+Beibei Wang
+Research Article
+Open access
+21 September 2024
+Watertight surface reconstruction method for CAD models based on optimal transport
+Yuanyan Ye
+Yubo Wang
+Zhonggui Chen
+Research Article
+Open access
+21 September 2024
+Message from Guest Editors of the CVM 2024 Special Issue
+Andrei Sharf
+Fang-Lue Zhang
+Editorial
+Open access
+16 September 2024
+Pages: 611 - 612
+TrafPS
+: A shapley-based visual analytics approach to interpret traffic
+Zezheng Feng
+Yifan Jiang
+Xuan Song
+Research Article
+Open access
+31 August 2024
+CLIP-Flow: Decoding images encoded in CLIP space
+Hao Ma
+Ming Li
+Hui Huang
+Research Article
+Open access
+28 August 2024
+View all articles
+Journal updates
+CVM Journal Award in 2023
+CVM Journal Award in 2022
+CVM Journal Award in 2021
+CVM Journal Award in 2020
+View all updates
+Journal information
+Electronic ISSN
+2096-0662
+Print ISSN
+2096-0433
+Co-Publisher information
+Tsinghua University Press
+Abstracted and indexed in
+Baidu
+CLOCKSS
+CNKI
+CNPIEC
+Chinese Academy of Sciences (CAS) - GoOA
+Chinese Science Citation Database
+Current Contents/Engineering, Computing  and Technology
+DBLP
+DOAJ
+Dimensions
+EBSCO
+EI Compendex
+Gale
+Google Scholar
+INSPEC
+Naver
+OCLC WorldCat Discovery Service
+Portico
+ProQuest
+SCImago
+SCOPUS
+Science Citation Index Expanded (SCIE)
+TD Net Discovery Service
+UGC-CARE List (India)
+Wanfang
+Copyright information
+Rights and permissions
+Editorial policies
+© Tsinghua University Press
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/computer/image+processing/journal/41095#eds-c-header-popup-search):
+Home | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Editorial board
+Aims and scope
+Journal updates
+Overview
+Computational Visual Media
+will cease publication with Springer Nature on completion of Volume 10/2024. The journal will continue in cooperation with Tsinghua University Press from Volume 11/2025. Please contact the Editorial Office (compvismedia@gmail.com) for information regarding the submission process.
+Computational Visual Media
+is an open access journal for the publication of original high-quality research papers and significant review articles on novel ideas, methods, and systems relevant to visual media.
+Original, high-quality research papers and review articles on all aspects of computer graphics, computer vision, image and video processing, geometric computing, and machine learning.
+Academically supported by the Department of Computer Science and Technology of Tsinghua University.
+High-quality peer review and rapid publication, no APCs for authors.
+Journal Impact Factor
+17.3 (2023)
+Submission to first decision (median)
+15 days
+Downloads
+128,873 (2023)
+Societies and partnerships
+Tsinghua University Press
+Latest issue
+August 2024
+|
+Volume 10, Issue 4
+The CVM 2024 Special Issue
+View all volumes and issues
+Latest articles
+Real-time all-frequency global illumination with radiance caching
+Youxin Xing
+Gaole Pan
+Beibei Wang
+Research Article
+Open access
+21 September 2024
+Watertight surface reconstruction method for CAD models based on optimal transport
+Yuanyan Ye
+Yubo Wang
+Zhonggui Chen
+Research Article
+Open access
+21 September 2024
+Message from Guest Editors of the CVM 2024 Special Issue
+Andrei Sharf
+Fang-Lue Zhang
+Editorial
+Open access
+16 September 2024
+Pages: 611 - 612
+TrafPS
+: A shapley-based visual analytics approach to interpret traffic
+Zezheng Feng
+Yifan Jiang
+Xuan Song
+Research Article
+Open access
+31 August 2024
+CLIP-Flow: Decoding images encoded in CLIP space
+Hao Ma
+Ming Li
+Hui Huang
+Research Article
+Open access
+28 August 2024
+View all articles
+Journal updates
+CVM Journal Award in 2023
+CVM Journal Award in 2022
+CVM Journal Award in 2021
+CVM Journal Award in 2020
+View all updates
+Journal information
+Electronic ISSN
+2096-0662
+Print ISSN
+2096-0433
+Co-Publisher information
+Tsinghua University Press
+Abstracted and indexed in
+Baidu
+CLOCKSS
+CNKI
+CNPIEC
+Chinese Academy of Sciences (CAS) - GoOA
+Chinese Science Citation Database
+Current Contents/Engineering, Computing  and Technology
+DBLP
+DOAJ
+Dimensions
+EBSCO
+EI Compendex
+Gale
+Google Scholar
+INSPEC
+Naver
+OCLC WorldCat Discovery Service
+Portico
+ProQuest
+SCImago
+SCOPUS
+Science Citation Index Expanded (SCIE)
+TD Net Discovery Service
+UGC-CARE List (India)
+Wanfang
+Copyright information
+Rights and permissions
+Editorial policies
+© Tsinghua University Press
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/):
+Springer - International Publisher Science, Technology, Medicine |
+      
+      Springer — International Publisher
+skip to context
+SpringerLink shop
+Subjects
+Services
+About Us
+Our business is publishing
+With more than 2,900 journals and 300,000 books, Springer offers many opportunities for authors, customers and partners.
+Discover our science
+Search
+all books, journals and book series published by Springer
+Read
+over 10 million scientific documents on SpringerLink
+Buy
+from our collection of 300,000 books in the shop
+Publish a book
+Ready to publish your book? Find out how
+Submit an article
+Your research in our journals
+Open access
+Make your work freely available
+Explore our subjects
+Astronomy
+Behavioral Sciences
+Biomedical Sciences
+Business & Management
+Chemistry
+Climate
+Computer Science
+Earth Sciences
+Economics
+Education & Language
+Energy
+Engineering
+Environmental Sciences
+Food Science & Nutrition
+General Interest
+Geography
+Law
+Life Sciences
+Materials
+Mathematics
+Medicine
+Philosophy
+Physics
+Public Health
+Social Sciences
+Statistics
+Water
+Springer Impact Report
+Find our products
+Read
+over ten million scientific documents on SpringerLink.
+Buy
+more than 300,000 different books in our SpringerLink shop
+Join our mailing list
+Get access to exclusive content, sales, promotions and events
+Be the first to hear about new book releases and journal launches
+Learn about our newest services, tools and resources
+Services
+Advertisers
+Authors & Editors
+Booksellers (SpringerNature)
+Book Reviewers
+Instructors & lecturers (SpringerNature)
+Journalists
+Librarians (SpringerNature)
+Open Access & Springer
+Editorial Policies
+Rights & Permissions
+Societies & Publishing Partners
+Subscription Agencies (SpringerNature)
+Help & Contact
+Publish with us
+Authors
+Journal authors
+Editorial Policies
+Open access & Springer
+Discover content
+SpringerLink
+Books A - Z
+Journals A - Z
+Video
+Other services
+Instructors & lecturers (SpringerNature)
+Librarians (SpringerNature)
+Societies & Publishing Partners
+Advertisers
+SpringerLink shop
+About Springer
+About us
+Help & Support
+Contact us
+Press releases
+Impressum
+Your Privacy Choices / Manage Cookies
+Accessibility statement
+Privacy policy
+Your US State Privacy Rights
+Terms and conditions
+Help and support
+© 2023
+              Springer Nature
+==================================================
+Texte du lien (https://www.springer.com):
+Springer - International Publisher Science, Technology, Medicine |
+      
+      Springer — International Publisher
+skip to context
+SpringerLink shop
+Subjects
+Services
+About Us
+Our business is publishing
+With more than 2,900 journals and 300,000 books, Springer offers many opportunities for authors, customers and partners.
+Discover our science
+Search
+all books, journals and book series published by Springer
+Read
+over 10 million scientific documents on SpringerLink
+Buy
+from our collection of 300,000 books in the shop
+Publish a book
+Ready to publish your book? Find out how
+Submit an article
+Your research in our journals
+Open access
+Make your work freely available
+Explore our subjects
+Astronomy
+Behavioral Sciences
+Biomedical Sciences
+Business & Management
+Chemistry
+Climate
+Computer Science
+Earth Sciences
+Economics
+Education & Language
+Energy
+Engineering
+Environmental Sciences
+Food Science & Nutrition
+General Interest
+Geography
+Law
+Life Sciences
+Materials
+Mathematics
+Medicine
+Philosophy
+Physics
+Public Health
+Social Sciences
+Statistics
+Water
+Springer Impact Report
+Find our products
+Read
+over ten million scientific documents on SpringerLink.
+Buy
+more than 300,000 different books in our SpringerLink shop
+Join our mailing list
+Get access to exclusive content, sales, promotions and events
+Be the first to hear about new book releases and journal launches
+Learn about our newest services, tools and resources
+Services
+Advertisers
+Authors & Editors
+Booksellers (SpringerNature)
+Book Reviewers
+Instructors & lecturers (SpringerNature)
+Journalists
+Librarians (SpringerNature)
+Open Access & Springer
+Editorial Policies
+Rights & Permissions
+Societies & Publishing Partners
+Subscription Agencies (SpringerNature)
+Help & Contact
+Publish with us
+Authors
+Journal authors
+Editorial Policies
+Open access & Springer
+Discover content
+SpringerLink
+Books A - Z
+Journals A - Z
+Video
+Other services
+Instructors & lecturers (SpringerNature)
+Librarians (SpringerNature)
+Societies & Publishing Partners
+Advertisers
+SpringerLink shop
+About Springer
+About us
+Help & Support
+Contact us
+Press releases
+Impressum
+Your Privacy Choices / Manage Cookies
+Accessibility statement
+Privacy policy
+Your US State Privacy Rights
+Terms and conditions
+Help and support
+© 2023
+              Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095):
+Home | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Editorial board
+Aims and scope
+Journal updates
+Overview
+Computational Visual Media
+will cease publication with Springer Nature on completion of Volume 10/2024. The journal will continue in cooperation with Tsinghua University Press from Volume 11/2025. Please contact the Editorial Office (compvismedia@gmail.com) for information regarding the submission process.
+Computational Visual Media
+is an open access journal for the publication of original high-quality research papers and significant review articles on novel ideas, methods, and systems relevant to visual media.
+Original, high-quality research papers and review articles on all aspects of computer graphics, computer vision, image and video processing, geometric computing, and machine learning.
+Academically supported by the Department of Computer Science and Technology of Tsinghua University.
+High-quality peer review and rapid publication, no APCs for authors.
+Journal Impact Factor
+17.3 (2023)
+Submission to first decision (median)
+15 days
+Downloads
+128,873 (2023)
+Societies and partnerships
+Tsinghua University Press
+Latest issue
+August 2024
+|
+Volume 10, Issue 4
+The CVM 2024 Special Issue
+View all volumes and issues
+Latest articles
+Real-time all-frequency global illumination with radiance caching
+Youxin Xing
+Gaole Pan
+Beibei Wang
+Research Article
+Open access
+21 September 2024
+Watertight surface reconstruction method for CAD models based on optimal transport
+Yuanyan Ye
+Yubo Wang
+Zhonggui Chen
+Research Article
+Open access
+21 September 2024
+Message from Guest Editors of the CVM 2024 Special Issue
+Andrei Sharf
+Fang-Lue Zhang
+Editorial
+Open access
+16 September 2024
+Pages: 611 - 612
+TrafPS
+: A shapley-based visual analytics approach to interpret traffic
+Zezheng Feng
+Yifan Jiang
+Xuan Song
+Research Article
+Open access
+31 August 2024
+CLIP-Flow: Decoding images encoded in CLIP space
+Hao Ma
+Ming Li
+Hui Huang
+Research Article
+Open access
+28 August 2024
+View all articles
+Journal updates
+CVM Journal Award in 2023
+CVM Journal Award in 2022
+CVM Journal Award in 2021
+CVM Journal Award in 2020
+View all updates
+Journal information
+Electronic ISSN
+2096-0662
+Print ISSN
+2096-0433
+Co-Publisher information
+Tsinghua University Press
+Abstracted and indexed in
+Baidu
+CLOCKSS
+CNKI
+CNPIEC
+Chinese Academy of Sciences (CAS) - GoOA
+Chinese Science Citation Database
+Current Contents/Engineering, Computing  and Technology
+DBLP
+DOAJ
+Dimensions
+EBSCO
+EI Compendex
+Gale
+Google Scholar
+INSPEC
+Naver
+OCLC WorldCat Discovery Service
+Portico
+ProQuest
+SCImago
+SCOPUS
+Science Citation Index Expanded (SCIE)
+TD Net Discovery Service
+UGC-CARE List (India)
+Wanfang
+Copyright information
+Rights and permissions
+Editorial policies
+© Tsinghua University Press
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095):
+Home | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Editorial board
+Aims and scope
+Journal updates
+Overview
+Computational Visual Media
+will cease publication with Springer Nature on completion of Volume 10/2024. The journal will continue in cooperation with Tsinghua University Press from Volume 11/2025. Please contact the Editorial Office (compvismedia@gmail.com) for information regarding the submission process.
+Computational Visual Media
+is an open access journal for the publication of original high-quality research papers and significant review articles on novel ideas, methods, and systems relevant to visual media.
+Original, high-quality research papers and review articles on all aspects of computer graphics, computer vision, image and video processing, geometric computing, and machine learning.
+Academically supported by the Department of Computer Science and Technology of Tsinghua University.
+High-quality peer review and rapid publication, no APCs for authors.
+Journal Impact Factor
+17.3 (2023)
+Submission to first decision (median)
+15 days
+Downloads
+128,873 (2023)
+Societies and partnerships
+Tsinghua University Press
+Latest issue
+August 2024
+|
+Volume 10, Issue 4
+The CVM 2024 Special Issue
+View all volumes and issues
+Latest articles
+Real-time all-frequency global illumination with radiance caching
+Youxin Xing
+Gaole Pan
+Beibei Wang
+Research Article
+Open access
+21 September 2024
+Watertight surface reconstruction method for CAD models based on optimal transport
+Yuanyan Ye
+Yubo Wang
+Zhonggui Chen
+Research Article
+Open access
+21 September 2024
+Message from Guest Editors of the CVM 2024 Special Issue
+Andrei Sharf
+Fang-Lue Zhang
+Editorial
+Open access
+16 September 2024
+Pages: 611 - 612
+TrafPS
+: A shapley-based visual analytics approach to interpret traffic
+Zezheng Feng
+Yifan Jiang
+Xuan Song
+Research Article
+Open access
+31 August 2024
+CLIP-Flow: Decoding images encoded in CLIP space
+Hao Ma
+Ming Li
+Hui Huang
+Research Article
+Open access
+28 August 2024
+View all articles
+Journal updates
+CVM Journal Award in 2023
+CVM Journal Award in 2022
+CVM Journal Award in 2021
+CVM Journal Award in 2020
+View all updates
+Journal information
+Electronic ISSN
+2096-0662
+Print ISSN
+2096-0433
+Co-Publisher information
+Tsinghua University Press
+Abstracted and indexed in
+Baidu
+CLOCKSS
+CNKI
+CNPIEC
+Chinese Academy of Sciences (CAS) - GoOA
+Chinese Science Citation Database
+Current Contents/Engineering, Computing  and Technology
+DBLP
+DOAJ
+Dimensions
+EBSCO
+EI Compendex
+Gale
+Google Scholar
+INSPEC
+Naver
+OCLC WorldCat Discovery Service
+Portico
+ProQuest
+SCImago
+SCOPUS
+Science Citation Index Expanded (SCIE)
+TD Net Discovery Service
+UGC-CARE List (India)
+Wanfang
+Copyright information
+Rights and permissions
+Editorial policies
+© Tsinghua University Press
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/editorial-board):
+Editorial board | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Editorial board
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+Editorial board
+We’re sorry, something doesn't seem to be working properly.
+Please try refreshing the page. If that doesn't work, please contact support so we can address the problem.
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/aims-and-scope):
+Aims and scope | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Aims and scope
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+Aims and scope
+Computational Visual Media is a peer-reviewed open access journal. It publishes original high-quality research papers and significant review articles on novel ideas, methods, and systems relevant to visual media.
+Computational Visual Media publishes articles that focus on, but are not limited to, the following areas:
+• Editing and composition of visual media
+• Geometric computing for images and video
+• Geometry modeling and processing
+• Machine learning for visual media
+• Physically based animation
+• Realistic rendering
+• Recognition and understanding of visual media
+• Visual computing for robotics
+• Visualization and visual analytics
+Other interdisciplinary research into visual media that combines aspects of computer graphics, computer vision, image and video processing, geometric computing, and machine learning is also within the journal's scope.
+This is an open access journal, published quarterly by Tsinghua University Press and Springer. The open access fees (article-processing charges) are fully sponsored by Tsinghua University, China. Authors can publish in the journal without any additional charges.
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/updates):
+Updates | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Journal updates
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+Journal updates
+CVM Journal Award in 2023
+CVM Journal Award in 2022
+CVM Journal Award in 2021
+CVM Journal Award in 2020
+CVM Journal Awards in 2019
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/articles):
+Impossible de récupérer le texte pour https://www.springer.com/journal/41095/articles
+
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/updates/26965690):
+CVM Journal Award in 2023 | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Journal updates
+Journal update
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+Computational Visual Media -
+CVM Journal Award in 2023
+Best Paper Award
+Visual attention network
+Meng-Hao Guo, Cheng-Ze Lu, Zheng-Ning Liu, Ming-Ming Cheng, and Shi-Min Hu
+Computational Visual Media
+Vol. 9, No. 4, 733–752, 2023
+https://doi.org/10.1007/s41095-023-0364-2
+Honorable Mention Award
+Full-duplex strategy for video object segmentation
+Ge-Peng Ji, Deng-Ping Fan, Keren Fu, Zhe Wu, Jianbing Shen, Ling Shao
+Computational Visual Media
+Vol. 9, No. 1, 155–175, 2023
+https://doi.org/10.1007/s41095-021-0262-4
+Specificity-preserving RGB-D saliency detection
+Tao Zhou, Deng-Ping Fan, Geng Chen, Yi Zhou, and Huazhu Fu
+Computational Visual Media
+Vol. 9, No. 2, 297–317, 2023
+https://doi.org/10.1007/s41095-022-0268-6
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/updates/25223320):
+CVM Journal Award in 2022 | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Journal updates
+Journal update
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+Computational Visual Media -
+CVM Journal Award in 2022
+Best Paper Award
+Attention mechanisms in computer vision: A survey
+Meng-Hao Guo, Tian-Xing Xu, Jiang-Jiang Liu, Zheng-Ning Liu, Peng-Tao Jiang, Tai-Jiang Mu, Song-Hai Zhang, Ralph R. Martin, Ming-Ming Cheng, and Shi-Min Hu
+Computational Visual Media
+Vol. 8, No. 3, 331–368, 2022
+https://doi.org/10.1007/s41095-022-0271-y
+Honorable Mention Award
+PVT v2: Improved baselines with Pyramid Vision Transformer
+Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, and Ling Shao
+Computational Visual Media
+Vol. 8, No. 3, 415–424, 2022
+https://doi.org/10.1007/s41095-022-0274-8
+DualFace: Two-stage drawing guidance for freehand portrait sketching
+Zhengyu Huang, Yichen Peng, Tomohiro Hibino, Chunqi Zhao, Haoran Xie, Tsukasa Fukusato, and Kazunori Miyata
+Computational Visual Media
+Vol. 8, No. 1, 63–77, 2022
+https://doi.org/10.1007/s41095-021-0227-7
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/updates/20277764):
+CVM Journal Award in 2021 | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Journal updates
+Journal update
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+Computational Visual Media -
+CVM Journal Award in 2021
+Best Paper Award
+EfficientPose: Efficient human pose estimation with neural architecture search
+Wenqiang Zhang, Jiemin Fang, Xinggang Wang, and Wenyu Liu
+Computational Visual Media
+Vol. 7, No. 3, 335–237, 2021
+https://doi.org/10.1007/s41095-021-0214-z
+Honorable Mention Award
+Efficient fastest-path computations for road maps
+Renjie Chen, Craig Gotsman
+Computational Visual Media
+Vol. 7, No. 2, 267–281, 2021
+https://doi.org/10.1007/s41095-021-0211-2
+Inferring object properties from human interaction and transferring them to new motions
+Qian Zheng, Weikai Wu, Hanting Pan, Niloy Mitra, Daniel Cohen-Or, and Hui Huang
+Computational Visual Media
+Vol. 7, No. 3, 375–392, 2021
+https://doi.org/10.1007/s41095-021-0218-8
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/updates/18951682):
+CVM Journal Award in 2020 | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Journal updates
+Journal update
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+Computational Visual Media -
+CVM Journal Award in 2020
+Best Paper Award
+Learning local shape descriptors for computing non-rigid dense
+c
+orrespondence
+https://link.springer.com/article/10.1007/s41095-020-0163-y
+Jianwei Guo, Hanyu Wang, Zhanglin Cheng, Xiaopeng Zhang, and Dong-Ming Yan
+Computational Visual Media
+Vol. 6, No. 1, 95–112, 2020
+Honorable Mention Award
+What and where: A context-based recommendation system for object insertion
+https://link.springer.com/article/10.1007/s41095-020-0158-8
+Song-Hai Zhang, Zheng-Ping Zhou, Bin Liu, Xi Dong, and Peter Hall
+Computational Visual Media
+Vol. 6, No. 1, 79–93, 2020
+A survey on deep geometry learning: From a representation perspective
+https://link.springer.com/article/10.1007/s41095-020-0174-8
+Yun-Peng Xiao, Yu-Kun Lai, Fang-Lue Zhang, Chunpeng Li, and Lin Gao
+Computational Visual Media
+Vol. 6, No. 2, 113–133, 2020
+Temporal scatterplots
+https://link.springer.com/article/10.1007/s41095-020-0197-1
+Or Patashnik, Min Lu, Amit H. Bermano, and Daniel Cohen-Or
+Computational Visual Media
+Vol. 6, No. 4, 385–400, 2020
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/updates):
+Updates | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Journal updates
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+Journal updates
+CVM Journal Award in 2023
+CVM Journal Award in 2022
+CVM Journal Award in 2021
+CVM Journal Award in 2020
+CVM Journal Awards in 2019
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/gp/rights-permissions/obtaining-permissions/882):
+How-to: Get permission to reuse Springer content online |
+      
+      Springer — International Publisher
+skip to context
+SpringerLink shop
+Subjects
+Services
+About Us
+Permissions
+Get permission to reuse Springer Nature content
+Springer Nature is partnered with the Copyright Clearance Center to meet our customers' licensing and permissions needs.
+Copyright Clearance Center’s RightsLink® service makes it faster and easier to secure permission for the reuse of Springer Nature content to be published, for example, in a journal/magazine, book/textbook, coursepack, thesis/dissertation, annual report, newspaper, training materials, presentation/slide kit, promotional material, etc.
+Simply visit
+SpringerLink
+and locate the desired content;
+Go to the article or chapter page you wish to reuse content from. (Note: permissions are granted on the article or chapter level, not on the book or journal level). Scroll to the botton of the page, or locate via the side bar, the "Reprints and Permissions" link at the end of the chapter or article.
+Select the way you would like to reuse the content;
+Complete the form with details on your intended reuse. Please be as complete and specific as possible ao as not to delay your permission request;
+Create an account if you haven’t already. A RightsLink account is different than a SpringerLink account, and is necessary to receive a licence regardless of the permission fee. You will receive your licence via the email attached to your RightsLink receipt;
+Accept the terms and conditions and you’re done!
+For questions about using the RightsLink service, please contact Customer Support at Copyright Clearance Center via phone +1-855-239-3415 or +1-978-646-2777 or email
+springernaturesupport@copyright.com
+.
+How to obtain permission to reuse Springer Nature content not available online on SpringerLink
+Requests for permission to reuse content (e.g. figure or table, abstract, text excerpts) from Springer Nature publications currently not available online must be submitted in writing. Please be as detailed and specific as possible about what, where, how much, and why you wish to reuse the content.
+Your contacts to obtain permission for the reuse of material from:
+- books:
+bookpermissions@springernature.com
+- journals:
+journalpermissions@springernature.com
+Author reuse
+Please check the Copyright Transfer Statement (CTS) or Licence to Publish (LTP) that you have signed with Springer Nature to find further information about the reuse of your content.
+Authors have the right to reuse their article’s Version of Record, in whole or in part, in their own thesis. Additionally, they may reproduce and make available their thesis, including Springer Nature content, as required by their awarding academic institution. Authors must properly cite the published article in their thesis according to current citation standards.
+Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]’
+If you are any doubt about whether your intended re-use is covered, please contact
+journalpermissions@springernature.com
+for confirmation.
+Self-Archiving
+- Journal authors retain the right to self-archive the final accepted version of their manuscript. Please see our self-archiving policy for full details:
+https://www.springer.com/gp/open-access/authors-rights/self-archiving-policy/2124
+- Book authors please refer to the information on this link:
+https://www.springer.com/gp/open-access/publication-policies/self-archiving-policy
+Rights and Permissions
+Permissions
+Obtaining translation and reprint rights
+Rights and Permissions at book fairs
+Contacts
+Report piracy of Springer Nature publications
+Springer’s text- and data-mining policy
+Services
+Advertisers
+Authors & Editors
+Booksellers (SpringerNature)
+Book Reviewers
+Instructors & lecturers (SpringerNature)
+Journalists
+Librarians (SpringerNature)
+Open Access & Springer
+Editorial Policies
+Rights & Permissions
+Societies & Publishing Partners
+Subscription Agencies (SpringerNature)
+Help & Contact
+Publish with us
+Authors
+Journal authors
+Editorial Policies
+Open access & Springer
+Discover content
+SpringerLink
+Books A - Z
+Journals A - Z
+Video
+Other services
+Instructors & lecturers (SpringerNature)
+Librarians (SpringerNature)
+Societies & Publishing Partners
+Advertisers
+SpringerLink shop
+About Springer
+About us
+Help & Support
+Contact us
+Press releases
+Impressum
+Your Privacy Choices / Manage Cookies
+Accessibility statement
+Privacy policy
+Your US State Privacy Rights
+Terms and conditions
+Help and support
+© 2023
+              Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/gp/authors-editors/journal-author/journal-author-helpdesk/editorial-policies/14214):
+Editorial policies | Springer |
+      
+      Springer — International Publisher
+skip to context
+SpringerLink shop
+Subjects
+Services
+About Us
+Editorial Policies
+Springer and Discover
+journals
+will be guided by
+COPE
+guidelines, however the  journals will continue to make independent decisions based on our existing policies and principles.
+Communicate with Respect
+Communicate with Respect
+Author Responsibilities and Ethics
+Authorship Principles
+Competing Interests
+Ethical Responsibilities of Authors
+Citations
+Confidentiality
+Preprint Sharing
+Corrections and Retractions
+Removal of Published Content
+Appeals and Complaints
+Predatory Journals and References
+Competing Interests
+Competing Interests Policy
+Artificial Intelligence (AI)
+AI Authorship
+Generative AI Images
+AI Use by Peer Reviewers
+Ethics and Biosecurity
+Informed Consent
+Sex and Gender in Research (SAGER Guidelines)
+Research Involving Human Participants, their Data or Biological Material
+Research Involving Human Embryos, Gametes, and Stem Cells
+Complementary and Alternative Medicine Standards for Research
+Research Involving Animals, their Data or Biological Material
+Utilization of Plants, Algae, Fungi
+Research Involving Palaeontological and Geological Material
+Dual Use of Research Content
+Data Availability and Standards of Reporting
+Data Availability Statements
+Standards of Reporting
+Peer-Review Policy
+Polic
+y
+Process and Guidance for Peer Reviewers
+Collections and Special Issues
+Collections and Special Issues
+Editorial Policies
+Resources
+Statistics Guide
+Interactive course
+Springer’s guide on publishing ethics
+Book and Proceedings policies
+Your ORCID iD – As unique as you
+This persistent ID distinguishes you from every other researcher. Automated linkages between you and your publications or reviews ensure that your work is recognized. Your achievements will never be confused with a colleague’s work.
+Web of Science Reviewer Recognition Service
+Our partnership with the Web of Science Reviewer Recognition Service makes it easy for your journal's reviewers to showcase their peer review activities. Learn how they can get recognition for their reviews on their Web of Science Reviewer Profile via our submission systems.
+Services
+Advertisers
+Authors & Editors
+Booksellers (SpringerNature)
+Book Reviewers
+Instructors & lecturers (SpringerNature)
+Journalists
+Librarians (SpringerNature)
+Open Access & Springer
+Editorial Policies
+Rights & Permissions
+Societies & Publishing Partners
+Subscription Agencies (SpringerNature)
+Help & Contact
+Publish with us
+Authors
+Journal authors
+Editorial Policies
+Open access & Springer
+Discover content
+SpringerLink
+Books A - Z
+Journals A - Z
+Video
+Other services
+Instructors & lecturers (SpringerNature)
+Librarians (SpringerNature)
+Societies & Publishing Partners
+Advertisers
+SpringerLink shop
+About Springer
+About us
+Help & Support
+Contact us
+Press releases
+Impressum
+Your Privacy Choices / Manage Cookies
+Accessibility statement
+Privacy policy
+Your US State Privacy Rights
+Terms and conditions
+Help and support
+© 2023
+              Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/submission-guidelines):
+Submission guidelines | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Submission guidelines
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+Submission guidelines
+Links and downloads
+Instructions for Authors (Download pdf, 198 kB)
+Author Information - CVM-LaTex-download (Download zip, 581 kB)
+Open access publishing
+To find out more about publishing your work Open Access in
+Computational Visual Media
+, including information on fees, funding and licences, visit our
+Open access publishing page
+.
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/ethics-and-disclosures):
+Ethics & disclosures | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Ethics & disclosures
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+Ethics & disclosures
+The journal is committed to maintaining the highest level of integrity in the content published.
+This journal has a Conflict of Interest policy in place and complies with international, national
+                    and/or institutional standards on research involving Human Participants and/or Animals and Informed
+                    Consent.
+The journal is a member of the Committee on Publication Ethics (
+COPE
+) and
+                subscribes to its principles on how to deal with acts of misconduct thereby committing to investigate
+                allegations of misconduct in order to ensure the integrity of research.
+The journal may use plagiarism detection software to screen the submissions. If plagiarism is identified,
+                the (
+COPE
+) guidelines on plagiarism will be
+                followed.
+Content published in this journal is peer reviewed (Single Blind).
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/how-to-publish-with-us):
+How to publish with us | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+How to publish with us
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+How to publish with us
+Contents
+Publishing options
+Publication fees
+Creative Commons licences
+Publishing options
+All articles published by
+Computational Visual Media
+are made freely and permanently accessible
+                    online immediately upon publication, without subscription charges or registration barriers.
+Benefits of open access
+Publishing open access offers a number of benefits, including greater reach and readership for your
+                work:
+Cited more
+1.6x more citations of OA articles than non-OA articles across all subjects
+Downloaded more
+4x more downloads of OA articles than non-OA articles
+Greater impact
+2.5x more Altmetric attention. OA articles attracted 1.9x more news mentions and 1.2x more policy
+                            mentions
+Open access also enables compliance with many major funder policies internationally. Find out
+                more about
+benefits of open
+                    access.
+Publication fees
+For information about any relevant fees for publishing in
+Computational Visual Media
+, please check the
+                    journal homepage or contact the Open Research Support team (
+ORSupport@springernature.com
+).
+Visit
+our open access support
+                    portal
+for further information.
+Back to top
+Creative Commons licences
+Open access articles in Springer Nature journals are published under Creative Commons licences. These provide an industry-standard framework to support easy re-use of open access material. Under Creative Commons licences, authors retain copyright of their articles.
+Computational Visual Media
+articles are published open access under a
+CC BY licence
+(Creative Commons Attribution 4.0 International licence). CC BY articles may be shared and adapted for any purpose, including commercially, so long as the authors are credited.
+You may also wish to find out about licence variations that are available to meet funder and institutional OA licence requirements. Learn more in our
+guide to licensing, copyright and author rights for journal articles.
+Back to top
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/contact-the-journal):
+Contact the journal | Computational Visual Media
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Computational Visual Media
+Contact the journal
+Computational Visual Media
+Publishing model
+:
+Open access
+Submit your manuscript
+Back to overview
+Editorial board
+Aims and scope
+Journal updates
+Contact the journal
+Author Service enquiries
+For any general pre-submission queries, including e.g. article types, indexing, timeline, publishing costs and
+        APCs of the journal, please visit
+Springer support portal
+.
+Submission-related enquiries
+Queries about submission issues, peer review process, or the status of your manuscript should be sent to
+Josephine Denise Elmedo
+(
+JosephineDenise.Elmedo@springernature.com
+).
+Production-related enquiries
+Queries about accepted manuscripts in production or post-publication corrections should be sent to
+Patricia Hofrichter
+(
+patricia.hofrichter@springer.com
+).
+Rights and Permissions enquiries
+For permission requests to reuse or reprint content, please follow the link ‘Rights and permissions’ on the
+        relevant article page. For other queries, contact
+journalpermissions@springernature.com
+.
+Publication-related enquiries
+Queries related to journal publishing should be sent to
+Na Xu
+(
+na.xu@springer.com
+).
+For authors
+Submission guidelines
+Language editing services
+Ethics and disclosures
+How to publish with us
+Contact the journal
+Language quality checker
+Get your manuscript edited for free
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Sign up for alerts
+Get notified when new articles are published.
+Explore
+Articles
+Volumes and issues
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our imprints
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Cancel contracts here
+196.118.213.111
+Not affiliated
+© 2024 Springer Nature
+==================================================
+Texte du lien (https://www.springer.com/alerts-frontend/subscribe?journalNo=41095):
+Stay informed with Journal Alerts
+Stay informed with Journal Alerts
+Sign up to receive the table of contents of a new issue for
+Computational Visual Media
+when the issue is available online at
+SpringerLink
+.
+Email
+First Name
+Last Name
+Springer marketing consent
+I'd like to stay up to date by receiving emails about relevant content and events, community news, journal and book information, and special offers from Springer. I can withdraw my consent by clicking on the unsubscribe link in the email.
+Subscribe
+© 2024 Springer International Publishing AG. Part of
+Springer Nature
+Privacy Policy
+|
+Terms & Conditions
+|
+Your privacy choices/Manage cookies
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/articles):
+Impossible de récupérer le texte pour https://www.springer.com/journal/41095/articles
+
+==================================================
+Texte du lien (https://www.springer.com/journal/41095/volumes-and-issues):
+Impossible de récupérer le texte pour https://www.springer.com/journal/41095/volumes-and-issues
+
+==================================================
+Texte du lien (https://www.springer.com/):
+Springer - International Publisher Science, Technology, Medicine |
+      
+      Springer — International Publisher
+skip to context
+SpringerLink shop
+Subjects
+Services
+About Us
+Our business is publishing
+With more than 2,900 journals and 300,000 books, Springer offers many opportunities for authors, customers and partners.
+Discover our science
+Search
+all books, journals and book series published by Springer
+Read
+over 10 million scientific documents on SpringerLink
+Buy
+from our collection of 300,000 books in the shop
+Publish a book
+Ready to publish your book? Find out how
+Submit an article
+Your research in our journals
+Open access
+Make your work freely available
+Explore our subjects
+Astronomy
+Behavioral Sciences
+Biomedical Sciences
+Business & Management
+Chemistry
+Climate
+Computer Science
+Earth Sciences
+Economics
+Education & Language
+Energy
+Engineering
+Environmental Sciences
+Food Science & Nutrition
+General Interest
+Geography
+Law
+Life Sciences
+Materials
+Mathematics
+Medicine
+Philosophy
+Physics
+Public Health
+Social Sciences
+Statistics
+Water
+Springer Impact Report
+Find our products
+Read
+over ten million scientific documents on SpringerLink.
+Buy
+more than 300,000 different books in our SpringerLink shop
+Join our mailing list
+Get access to exclusive content, sales, promotions and events
+Be the first to hear about new book releases and journal launches
+Learn about our newest services, tools and resources
+Services
+Advertisers
+Authors & Editors
+Booksellers (SpringerNature)
+Book Reviewers
+Instructors & lecturers (SpringerNature)
+Journalists
+Librarians (SpringerNature)
+Open Access & Springer
+Editorial Policies
+Rights & Permissions
+Societies & Publishing Partners
+Subscription Agencies (SpringerNature)
+Help & Contact
+Publish with us
+Authors
+Journal authors
+Editorial Policies
+Open access & Springer
+Discover content
+SpringerLink
+Books A - Z
+Journals A - Z
+Video
+Other services
+Instructors & lecturers (SpringerNature)
+Librarians (SpringerNature)
+Societies & Publishing Partners
+Advertisers
+SpringerLink shop
+About Springer
+About us
+Help & Support
+Contact us
+Press releases
+Impressum
+Your Privacy Choices / Manage Cookies
+Accessibility statement
+Privacy policy
+Your US State Privacy Rights
+Terms and conditions
+Help and support
+© 2023
+              Springer Nature
+==================================================

@@ -1,0 +1,12 @@
+Texte du lien (https://www.sciencedirect.com/):
+Impossible de récupérer le texte pour https://www.sciencedirect.com/
+
+==================================================
+Texte du lien (https://www.sciencedirect.com/browse/journals-and-books):
+Impossible de récupérer le texte pour https://www.sciencedirect.com/browse/journals-and-books
+
+==================================================
+Texte du lien (https://www.sciencedirect.com/legal/use-of-cookies):
+Impossible de récupérer le texte pour https://www.sciencedirect.com/legal/use-of-cookies
+
+==================================================
